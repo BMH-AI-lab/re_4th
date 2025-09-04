@@ -25,6 +25,7 @@
 + 순서없이3
     + 하위순서1
     + 하위순서2
+    + 하위순서3
 
 <https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli>   
 
