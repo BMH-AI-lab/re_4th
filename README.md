@@ -30,6 +30,8 @@
 
 [이모티콘](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli) 
 
-![이미지테스트](https://velog.velcdn.com/images/hhhong/post/e5b7e701-f5df-461a-bdce-f91f0ce704f3/yoloDog.png)
+![이미지테스트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7Rve2eOoJFY3rzwJ2tL4vWbSQcYL7KqmPQ&s)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7Rve2eOoJFY3rzwJ2tL4vWbSQcYL7KqmPQ&s" width="50" height="50">
 
 > 인용문구 
