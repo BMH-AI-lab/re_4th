@@ -29,3 +29,7 @@
 <https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli>   
 
 [이모티콘](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli) 
+
+![이미지테스트](https://cdn.pixabay.com/photo/2023/01/05/09/31/ferris-wheel-7698474_1280.jpg)
+
+> 인용문구 
