@@ -43,7 +43,7 @@
         + 태양광, 풍력과 같은 재생에너지원의 간헐적 출력을 예측함으로써 에너지 공급 측면에서 효율성 많음 
     
     
-    <img width="662" height="184" alt="Image" src="https://github.com/user-attachments/assets/726970b9-7492-4ee3-94c1-1026bdc7b90f" /><br>
+    <img width="862" height="184" alt="Image" src="https://github.com/user-attachments/assets/726970b9-7492-4ee3-94c1-1026bdc7b90f" /><br>
     
     <img width="663" height="290" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" /><br>
 
@@ -54,7 +54,7 @@
   
     + 신재생 에너지 인공지능 활용 사례 2
     
-        <img width="494" height="190" alt="Image" src="https://github.com/user-attachments/assets/45934cde-99c4-492b-a9b3-abf6ecdd0f24" />
+        <img width="694" height="190" alt="Image" src="https://github.com/user-attachments/assets/45934cde-99c4-492b-a9b3-abf6ecdd0f24" />
 
 
 5. 신재생 에너지 관련 지원동기 
