@@ -42,17 +42,18 @@
         + 재생에너지는 예측이 어려운 간헐적 생산이 가장 큰 한계로 지적되고 있으므로, AI를 도입하여 활용할 경우 한계를 극복할 수 있음
         + 태양광, 풍력과 같은 재생에너지원의 간헐적 출력을 예측함으로써 에너지 공급 측면에서 효율성 많음 
     \
-    \
+    
     <img width="862" height="384" alt="Image" src="https://github.com/user-attachments/assets/726970b9-7492-4ee3-94c1-1026bdc7b90f" />
     \
-    \
+    
     <img width="863" height="290" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" />
     \
-    + 신재생 에너지 인공지능 활용 사례
-    \
+    + 신재생 에너지 인공지능 활용 사례\
+
     <img width="600" height="387" alt="Image" src="https://github.com/user-attachments/assets/d8cdc18e-b621-42dd-860e-cda9bc4361cd" />
     \
     <img width="694" height="390" alt="Image" src="https://github.com/user-attachments/assets/45934cde-99c4-492b-a9b3-abf6ecdd0f24" />
+\
 
 5. 신재생 에너지 관련 지원동기 
 \
