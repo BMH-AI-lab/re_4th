@@ -50,6 +50,7 @@
     + 신재생 에너지 인공지능 활용 사례 1
 
     <img width="700" height="187" alt="Image" src="https://github.com/user-attachments/assets/d8cdc18e-b621-42dd-860e-cda9bc4361cd" />
+    ---
   
     + 신재생 에너지 인공지능 활용 사례 2
     <img width="494" height="190" alt="Image" src="https://github.com/user-attachments/assets/45934cde-99c4-492b-a9b3-abf6ecdd0f24" />
