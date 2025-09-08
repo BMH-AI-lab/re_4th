@@ -14,10 +14,10 @@
             + 광백태양광 발전 단지의 모든 태양광은 인버터를 제외한 주요 기자재들을 국산 제품으로 사용하고 있으며 공사 역시 현지 기업 위주로 시행
         + 신안 태양광 발전단지
             + 폐염전 부지를 활용한 사업으로 4인 가구 기준으로 연간 4만 9000가구가 사용 가능한 209.7GWh의 전력을 생산
-                + 설비용량은 단일 사업자 기준 최대인 150MW로 발전소가 운영되는 20년 동안 410톤의 미세먼지와 180만톤의 온실가스 감축에 기여할 수 있음
+                + 설비용량은 단일 사업자 기준 최대인 150MW로 발전소가 운영되는 20년 동안 410톤의 미세먼지와 180만톤의 온실가스 감축에 기여할 수 있음<br>
 
  
-            <img width="1696" height="244" alt="Image" src="https://github.com/user-attachments/assets/9b607712-8dce-4f9a-b35f-bdbe23c0f4b4" >
+            <img width="1696" height="244" alt="Image" src="https://github.com/user-attachments/assets/9b607712-8dce-4f9a-b35f-bdbe23c0f4b4" ><br>
         
 
 3. 해상 풍력 에너지 
@@ -27,14 +27,14 @@
         + 2021년까지 국내 해상풍력 누적 설치용량은 124.5MW로 전체 풍력 설치량의 7.4%에 그치고 있고, 2021년도에는 신규 설치마저 없는 상황
         + 국내 해상풍력 보급현황은 미미함 
             + 정부주도 하의 해상풍력단지 조성을 통한 사업추진과 장기간 소요되는 인ㆍ허가 제도의 개선이 필요 
-            + 해상풍력 발전사업의 안정적 추진을 위해서는 주민 수용성 확보 방안을 마련해야 함 
+            + 해상풍력 발전사업의 안정적 추진을 위해서는 주민 수용성 확보 방안을 마련해야 함<br> 
             
-            <img width="483" height="182" alt="Image" src="https://github.com/user-attachments/assets/d4c53824-4cb2-4cf6-9c50-357b449ed206" />
+            <img width="483" height="182" alt="Image" src="https://github.com/user-attachments/assets/d4c53824-4cb2-4cf6-9c50-357b449ed206" /><br>
  
 
 4. 신재생 에너지 관련 인공지능 분야 
     + 인공지능이란? 
-        + 인간의 학습 능력, 추론 능력, 지각 능력 등을 기계에 인공적으로 구현하려는 컴퓨터 과학의 한 분야로, 음성인식, 데이터 분석, 추천, 사기 거래 탐지 등 다양한 고급 기능을 수행하는 기술
+        + 인간의 학습 능력, 추론 능력, 지각 능력 등을 기계에 인공적으로 구현하려는 컴퓨터 과학의 한 분야로, 음성인식, 데이터 분석, 추천, 사기 거래 탐지 등 다양한 고급 기능을 수행하는 기술<br>
 
     + 신재생 관련 인공지능 기술 현황
         + 에너지 산업에서는 최소 1개의 AI 기술 도입이 38%, 2개의 AI 기술을 도입한 경우가 19%로 나타남
@@ -43,17 +43,17 @@
         + 태양광, 풍력과 같은 재생에너지원의 간헐적 출력을 예측함으로써 에너지 공급 측면에서 효율성 많음 
     
     
-    <img width="662" height="184" alt="Image" src="https://github.com/user-attachments/assets/726970b9-7492-4ee3-94c1-1026bdc7b90f" />
+    <img width="662" height="184" alt="Image" src="https://github.com/user-attachments/assets/726970b9-7492-4ee3-94c1-1026bdc7b90f" /><br>
     
-    <img width="663" height="290" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" />
+    <img width="663" height="290" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" /><br>
 
     + 신재생 에너지 인공지능 활용 사례 1
 
-    <img width="700" height="187" alt="Image" src="https://github.com/user-attachments/assets/d8cdc18e-b621-42dd-860e-cda9bc4361cd" /><br>
+        <img width="700" height="187" alt="Image" src="https://github.com/user-attachments/assets/d8cdc18e-b621-42dd-860e-cda9bc4361cd" /><br>
     
   
     + 신재생 에너지 인공지능 활용 사례 2
-    <img width="494" height="190" alt="Image" src="https://github.com/user-attachments/assets/45934cde-99c4-492b-a9b3-abf6ecdd0f24" />
+        <img width="494" height="190" alt="Image" src="https://github.com/user-attachments/assets/45934cde-99c4-492b-a9b3-abf6ecdd0f24" />
 
 
 5. 신재생 에너지 관련 지원동기 
