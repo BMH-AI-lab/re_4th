@@ -32,10 +32,9 @@
             <img width="483" height="182" alt="Image" src="https://github.com/user-attachments/assets/d4c53824-4cb2-4cf6-9c50-357b449ed206" />
  \
 4. 신재생 에너지 관련 인공지능 분야 
-    
     + 인공지능이란? 
         + 인간의 학습 능력, 추론 능력, 지각 능력 등을 기계에 인공적으로 구현하려는 컴퓨터 과학의 한 분야로, 음성인식, 데이터 분석, 추천, 사기 거래 탐지 등 다양한 고급 기능을 수행하는 기술
-    
+
     + 신재생 관련 인공지능 기술 현황
         + 에너지 산업에서는 최소 1개의 AI 기술 도입이 38%, 2개의 AI 기술을 도입한 경우가 19%
         + 수도 및 전력 공급에서는 최소 1개의 AI 기술 도입이 45%, 2개의 AI 기술을 도입한 경우가 8%인 것으로 나타남
@@ -47,5 +46,3 @@
 \
 \
     <img width="863" height="290" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" />
-
-
