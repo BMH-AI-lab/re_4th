@@ -29,7 +29,7 @@
             + 정부주도 하의 해상풍력단지 조성을 통한 사업추진과 장기간 소요되는 인ㆍ허가 제도의 개선이 필요 
             + 해상풍력 발전사업의 안정적 추진을 위해서는 주민 수용성 확보 방안을 마련해야 함 
             
-            <img width="1696" height="244" alt="Image" src= "https://github.com/BMH-AI-lab/re_4th/issues/3#issue-3392392147"\>
+            <img width="483" height="182" alt="Image" src="https://github.com/user-attachments/assets/d4c53824-4cb2-4cf6-9c50-357b449ed206" />
  
 
 4. 신재생 에너지 관련 인공지능 분야 
