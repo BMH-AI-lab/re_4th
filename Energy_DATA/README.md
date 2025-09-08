@@ -45,7 +45,7 @@
     
     <img width="662" height="184" alt="Image" src="https://github.com/user-attachments/assets/726970b9-7492-4ee3-94c1-1026bdc7b90f" />
     
-    <img width="663" height="90" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" />
+    <img width="663" height="290" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" />
 
     + 신재생 에너지 인공지능 활용 사례
 
