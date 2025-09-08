@@ -41,13 +41,13 @@
         + 수도 및 전력 공급에서는 최소 1개의 AI 기술 도입이 45%, 2개의 AI 기술을 도입한 경우가 8%인 것으로 나타남
         + 재생에너지는 예측이 어려운 간헐적 생산이 가장 큰 한계로 지적되고 있으므로, AI를 도입하여 활용할 경우 한계를 극복할 수 있음
         + 태양광, 풍력과 같은 재생에너지원의 간헐적 출력을 예측함으로써 에너지 공급 측면에서 효율성 많음 
-\
-\
+    \
+    \
     <img width="862" height="384" alt="Image" src="https://github.com/user-attachments/assets/726970b9-7492-4ee3-94c1-1026bdc7b90f" />
-\
-\
+    \
+    \
     <img width="863" height="290" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" />
-
+    
     + 신재생 에너지 인공지능 활용 사례
     <img width="604" height="287" alt="Image" src="https://github.com/user-attachments/assets/8d52f272-dc4b-4dd3-98d0-901989e4c975" />
     \
