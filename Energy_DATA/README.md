@@ -44,16 +44,15 @@
     \
     
     <img width="862" height="384" alt="Image" src="https://github.com/user-attachments/assets/726970b9-7492-4ee3-94c1-1026bdc7b90f" />
-    \
     
     <img width="863" height="290" alt="Image" src="https://github.com/user-attachments/assets/dea4c31f-f8f7-4907-a7f5-117ddd4ae149" />
-    \
+
     + 신재생 에너지 인공지능 활용 사례\
 
     <img width="600" height="387" alt="Image" src="https://github.com/user-attachments/assets/d8cdc18e-b621-42dd-860e-cda9bc4361cd" />
-    \
+
     <img width="694" height="390" alt="Image" src="https://github.com/user-attachments/assets/45934cde-99c4-492b-a9b3-abf6ecdd0f24" />
-\
+
 
 5. 신재생 에너지 관련 지원동기 
 \
